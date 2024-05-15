@@ -16,6 +16,3 @@ public class HelloController {
                 .body(message);
     }
 }
-        return ResponseEntity.ok().body(message);
-    }
-}
